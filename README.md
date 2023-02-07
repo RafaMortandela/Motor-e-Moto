@@ -4,4 +4,6 @@ Programa criado para solucionar uma situação fictícia, durante um exame na ma
 
 Foram utilizados os padrões MVC e DAO.
 
+Softwares utilizados: NetBeans, Visual Studio Code e PostgreSQL.
+
 Nota final: 10/10
